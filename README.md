@@ -1,2 +1,2 @@
 # GutHubNew
-о работе в GitHub 
+О работе в GitHub 
